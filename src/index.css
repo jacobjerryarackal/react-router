@@ -1,0 +1,14 @@
+.primary-nav{
+    background-color: aliceblue;
+    padding: 16px 40px;
+}
+
+nav a{
+    margin-right: 17px;
+    color: black;
+}
+
+nav a.active{
+    font-weight: bold;
+    text-decoration: none;
+}
